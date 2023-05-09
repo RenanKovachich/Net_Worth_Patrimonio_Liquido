@@ -26,3 +26,5 @@
 - Tkinter
 - PIL (Pilow)
 
+## Referência
+https://www.usandopy.com/pt/artigo/calculadora-de-patrimonio-liquido-em-python/
